@@ -1,1 +1,12 @@
-["zombies.coffee","spotify.coffee", "redis-brain.coffee", "zen.coffee", "shipit.coffee", "steveholt.coffe", "stallman.coffee", "announce.coffee"]
+["zombies.coffee",
+"spotify.coffee", 
+"redis-brain.coffee", 
+"zen.coffee", 
+"shipit.coffee", 
+"steveholt.coffe", 
+"stallman.coffee", 
+"announce.coffee",
+"excuse.coffee",
+"catfacts.coffee",
+"whoisout.coffee",
+"thanks-obama.coffee"]
